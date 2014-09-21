@@ -15,3 +15,5 @@ To check if the "com_k2" component enabled or installed
 
 
 Follow me on twitter http://twitter.com/manchumahara (@manchumahara)
+
+Check similar custom form field to check if plugin enabled https://github.com/manchumahara/plugincheck
